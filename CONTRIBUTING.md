@@ -1,1 +1,1 @@
-All contributions, bug reports, bug fixes, documentation improvements, enhancements, and ideas are welcome.
+All contributions, error reports, fixes, documentation improvements, enhancements, and ideas can be updated within this file.
